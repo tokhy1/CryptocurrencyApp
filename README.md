@@ -12,7 +12,7 @@ CryptocurrencyApp is a cutting-edge Android cryptocurrency application crafted w
 ## Features:
 - Explore a vast world of cryptocurrencies with ease.
 - Access vital information like rank, name, symbol, and activity status.
-- Dive into detailed descriptions and tags for each crypto.
+- Dive into detailed descriptions, tags, team members for each crypto.
 - Get acquainted with the talented teams behind the projects.
 
 
